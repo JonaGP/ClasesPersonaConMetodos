@@ -1,0 +1,12 @@
+C:\Users\jonathan\Documents\Visual Studio 2017\Projects\ClasesPersona\ClasesPersona\bin\Debug\ClasesPersona.dll
+C:\Users\jonathan\Documents\Visual Studio 2017\Projects\ClasesPersona\ClasesPersona\bin\Debug\ClasesPersona.pdb
+C:\Users\jonathan\Documents\Visual Studio 2017\Projects\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.csprojAssemblyReference.cache
+C:\Users\jonathan\Documents\Visual Studio 2017\Projects\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.csproj.CoreCompileInputs.cache
+C:\Users\jonathan\Documents\Visual Studio 2017\Projects\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.dll
+C:\Users\jonathan\Documents\Visual Studio 2017\Projects\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.pdb
+C:\Users\jonathan\Downloads\Cole 2018\practica\Mysql2\ClasesPersona\ClasesPersona\bin\Debug\ClasesPersona.dll
+C:\Users\jonathan\Downloads\Cole 2018\practica\Mysql2\ClasesPersona\ClasesPersona\bin\Debug\ClasesPersona.pdb
+C:\Users\jonathan\Downloads\Cole 2018\practica\Mysql2\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.csprojAssemblyReference.cache
+C:\Users\jonathan\Downloads\Cole 2018\practica\Mysql2\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.csproj.CoreCompileInputs.cache
+C:\Users\jonathan\Downloads\Cole 2018\practica\Mysql2\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.dll
+C:\Users\jonathan\Downloads\Cole 2018\practica\Mysql2\ClasesPersona\ClasesPersona\obj\Debug\ClasesPersona.pdb
